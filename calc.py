@@ -15,7 +15,7 @@ print("Calculator ➖✖️➕➗:")
             print(setnumsubfirst - setnumaddsecond)
     elif cmdline == "multiplication":
             setnummultfirst = int(input("Enter your first number. > "))
-            setnummultsecond = int(input("Enter your second number"))
+            setnummultsecond = int(input("Enter your second number. > "))
             time.sleep(2)
             print(setnummultfirst * setnummultsecond)
     elif cmdline == "division":
