@@ -1,5 +1,7 @@
 import time
 
+# Use Visual Studio, Python IDLE Shell to make this small code work.
+
 while True:
 print("Calculator ➖✖️➕➗:")
     cmdline = input("> ")
